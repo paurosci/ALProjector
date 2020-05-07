@@ -1,0 +1,14 @@
+<Config_Values>
+	<Serial_Param_Default>
+		<SerialId>COM3</SerialId>
+		<!-- típicament Arduino sempre es connecta al COM3-->
+		<Baud_Rate>115200</Baud_Rate>
+		<!-- Valor acceptat 115200-->
+	</Serial_Param_Default>
+	<Motor_Param_Default>
+		<Spin_Rate>15000</Spin_Rate>
+		<!-- Rang acceptat: 10000-90000 ms-->
+		<Spin_Direction>w</Spin_Direction>
+		<!-- Valors acceptat: w,c-->
+	</Motor_Param_Default>
+</Config_Values>

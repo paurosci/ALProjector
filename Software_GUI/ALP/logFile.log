@@ -1,0 +1,73 @@
+****************************
+*   Log File: 14/12/2015   *
+****************************
+
+14/12/2015 09:28:20 - Connected to Port COM3
+
+14/12/2015 09:28:21 - Sending command: fw15000|
+
+14/12/2015 09:28:37 - Sending command: msDisplay|
+
+14/12/2015 09:28:40 - Sending command: k|
+
+14/12/2015 09:28:41 - Sending command: o|
+
+
+******************
+*   14/12/2015   *
+******************
+
+14/12/2015 10:28:56 - Connected to Port COM3
+
+14/12/2015 10:29:01 - Sending command: fw15000|
+
+14/12/2015 10:29:10 - Sending command: mfDisplay|
+
+14/12/2015 10:29:52 - Sending command: mfDISPLAY|
+
+14/12/2015 10:30:35 - Sending command: mfALFANUMERIC LASER PROJECTOR !!|
+
+14/12/2015 10:30:38 - Sending command: msALFANUMERIC LASER PROJECTOR !!|
+
+14/12/2015 10:31:41 - Sending command: msUPF 2015|
+
+14/12/2015 10:31:48 - Sending command: msUPF 2015  |
+
+14/12/2015 10:31:55 - Sending command: msUPF 2015|
+
+14/12/2015 10:32:00 - Sending command: mfUPF 2015|
+
+14/12/2015 10:32:46 - Sending command: c|
+
+14/12/2015 10:32:49 - Sending command: k|
+
+14/12/2015 10:32:51 - Sending command: o|
+
+
+******************
+*   07/05/2020   *
+******************
+
+07/05/2020 17:56:46 - Error: No available COM port selected. Please check configFile params
+
+
+******************
+*   07/05/2020   *
+******************
+
+07/05/2020 19:08:33 - Error: No available COM port selected. Please check configFile params
+
+
+******************
+*   07/05/2020   *
+******************
+
+07/05/2020 21:04:11 - Error: No available COM port selected. Please check configFile params
+
+
+******************
+*   07/05/2020   *
+******************
+
+07/05/2020 21:11:40 - Error: No available COM port selected. Please check configFile params
+
